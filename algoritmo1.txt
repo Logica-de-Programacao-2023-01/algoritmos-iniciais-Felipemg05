@@ -1,0 +1,6 @@
+leia x 
+leia y
+leia n 
+soma("+")
+soma("x+y")
+soma("x+y=n")
